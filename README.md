@@ -44,4 +44,4 @@ https://github.com/Goodee-Semi-Project/goodee-semi-project
 수강확인증과 수료증 출력, 과제 생성 및 관리, 과제 제출물 생성 및 관리 기능의 개발을 담당했으며,<br>
 Bootstrap Template을 적용한 화면단을 구성하고, Header / Footer 등의 프로젝트 내부 공통 컴포넌트를 구현했습니다.
 <hr>
-
+<img width="1004" height="905" alt="Image" src="https://github.com/user-attachments/assets/2a6ad075-6b9b-4191-996a-0717cac044b0" />
